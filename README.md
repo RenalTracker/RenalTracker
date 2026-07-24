@@ -8,6 +8,7 @@ Static GitHub Pages site for App Store required URLs. No app source code.
 - Privacy Policy: https://renaltracker.github.io/RenalTracker/privacy/
 - Support: https://renaltracker.github.io/RenalTracker/support/
 - Contact: https://renaltracker.github.io/RenalTracker/contact/
+- Copyright: https://renaltracker.github.io/RenalTracker/copyright/
 
 ## App Store Connect
 
