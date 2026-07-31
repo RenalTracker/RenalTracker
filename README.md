@@ -2,6 +2,8 @@
 
 Static GitHub Pages site for App Store required URLs. No app source code.
 
+Product code (Android / iOS / web) is in a separate private repo: [redaemor/renal-tracker](https://github.com/redaemor/renal-tracker).
+
 ## Live URLs (after Pages is enabled)
 
 - Home: https://renaltracker.github.io/RenalTracker/
